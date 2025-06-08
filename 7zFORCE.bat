@@ -104,7 +104,7 @@ echo ╠═════(2)If you have any feedback or questions, feel free to le
 echo ║in the documentation's comment section.
 echo ╚═══════(3)documentation :
 echo	 Documentation Link:
-echo	 https://medium.com/@kaffahrizal/7zforce-brute-force-tool-for-zip-rar-using-batch-script-and-7-zip-93b3861d4271
+echo	 https://medium.com/@kaffahrizal/7zforce-documentation-b91292ded408
 echo ===========================
 echo.
 pause
